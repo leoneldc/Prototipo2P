@@ -31,16 +31,16 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.aRCHIVOSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cATALOGOToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.pROCESOSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.hERRAMIENTASToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.aYUDAToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mANTENIMIENTOSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pEDIDOSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pRODUCTOSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cLIENTESToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pROCESOSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sOLICITUDDEPEDIDOSToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.eNCABEZADOVENTASToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dETALLEVENTASToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.hERRAMIENTASToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.aYUDAToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -56,7 +56,7 @@
             this.aYUDAToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 36);
+            this.menuStrip1.Size = new System.Drawing.Size(1226, 33);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -74,28 +74,6 @@
             this.cATALOGOToolStripMenuItem.Size = new System.Drawing.Size(117, 29);
             this.cATALOGOToolStripMenuItem.Text = "CATALOGO";
             // 
-            // pROCESOSToolStripMenuItem
-            // 
-            this.pROCESOSToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.sOLICITUDDEPEDIDOSToolStripMenuItem,
-            this.eNCABEZADOVENTASToolStripMenuItem,
-            this.dETALLEVENTASToolStripMenuItem});
-            this.pROCESOSToolStripMenuItem.Name = "pROCESOSToolStripMenuItem";
-            this.pROCESOSToolStripMenuItem.Size = new System.Drawing.Size(117, 29);
-            this.pROCESOSToolStripMenuItem.Text = "PROCESOS";
-            // 
-            // hERRAMIENTASToolStripMenuItem
-            // 
-            this.hERRAMIENTASToolStripMenuItem.Name = "hERRAMIENTASToolStripMenuItem";
-            this.hERRAMIENTASToolStripMenuItem.Size = new System.Drawing.Size(157, 29);
-            this.hERRAMIENTASToolStripMenuItem.Text = "HERRAMIENTAS";
-            // 
-            // aYUDAToolStripMenuItem
-            // 
-            this.aYUDAToolStripMenuItem.Name = "aYUDAToolStripMenuItem";
-            this.aYUDAToolStripMenuItem.Size = new System.Drawing.Size(86, 29);
-            this.aYUDAToolStripMenuItem.Text = "AYUDA";
-            // 
             // mANTENIMIENTOSToolStripMenuItem
             // 
             this.mANTENIMIENTOSToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -111,18 +89,30 @@
             this.pEDIDOSToolStripMenuItem.Name = "pEDIDOSToolStripMenuItem";
             this.pEDIDOSToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
             this.pEDIDOSToolStripMenuItem.Text = "PEDIDOS";
+            this.pEDIDOSToolStripMenuItem.Click += new System.EventHandler(this.pEDIDOSToolStripMenuItem_Click);
             // 
             // pRODUCTOSToolStripMenuItem
             // 
             this.pRODUCTOSToolStripMenuItem.Name = "pRODUCTOSToolStripMenuItem";
             this.pRODUCTOSToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
             this.pRODUCTOSToolStripMenuItem.Text = "PRODUCTOS";
+            this.pRODUCTOSToolStripMenuItem.Click += new System.EventHandler(this.pRODUCTOSToolStripMenuItem_Click);
             // 
             // cLIENTESToolStripMenuItem
             // 
             this.cLIENTESToolStripMenuItem.Name = "cLIENTESToolStripMenuItem";
             this.cLIENTESToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
             this.cLIENTESToolStripMenuItem.Text = "CLIENTES";
+            // 
+            // pROCESOSToolStripMenuItem
+            // 
+            this.pROCESOSToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.sOLICITUDDEPEDIDOSToolStripMenuItem,
+            this.eNCABEZADOVENTASToolStripMenuItem,
+            this.dETALLEVENTASToolStripMenuItem});
+            this.pROCESOSToolStripMenuItem.Name = "pROCESOSToolStripMenuItem";
+            this.pROCESOSToolStripMenuItem.Size = new System.Drawing.Size(117, 29);
+            this.pROCESOSToolStripMenuItem.Text = "PROCESOS";
             // 
             // sOLICITUDDEPEDIDOSToolStripMenuItem
             // 
@@ -142,11 +132,23 @@
             this.dETALLEVENTASToolStripMenuItem.Size = new System.Drawing.Size(307, 34);
             this.dETALLEVENTASToolStripMenuItem.Text = "DETALLE VENTAS";
             // 
+            // hERRAMIENTASToolStripMenuItem
+            // 
+            this.hERRAMIENTASToolStripMenuItem.Name = "hERRAMIENTASToolStripMenuItem";
+            this.hERRAMIENTASToolStripMenuItem.Size = new System.Drawing.Size(157, 29);
+            this.hERRAMIENTASToolStripMenuItem.Text = "HERRAMIENTAS";
+            // 
+            // aYUDAToolStripMenuItem
+            // 
+            this.aYUDAToolStripMenuItem.Name = "aYUDAToolStripMenuItem";
+            this.aYUDAToolStripMenuItem.Size = new System.Drawing.Size(86, 29);
+            this.aYUDAToolStripMenuItem.Text = "AYUDA";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1226, 744);
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;

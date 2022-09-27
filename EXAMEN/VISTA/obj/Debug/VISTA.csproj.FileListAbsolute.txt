@@ -1,0 +1,14 @@
+D:\cSharp\EXAMEN\VISTA\bin\Debug\VISTA.dll
+D:\cSharp\EXAMEN\VISTA\bin\Debug\VISTA.pdb
+D:\cSharp\EXAMEN\VISTA\obj\Debug\VISTA.csproj.AssemblyReference.cache
+D:\cSharp\EXAMEN\VISTA\obj\Debug\VISTA.Pedidos.resources
+D:\cSharp\EXAMEN\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+D:\cSharp\EXAMEN\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+D:\cSharp\EXAMEN\VISTA\obj\Debug\VISTA.dll
+D:\cSharp\EXAMEN\VISTA\obj\Debug\VISTA.pdb
+D:\cSharp\EXAMEN\VISTA\obj\Debug\VISTA.Productos.resources
+D:\cSharp\EXAMEN\VISTA\bin\Debug\CONTROLADOR.dll
+D:\cSharp\EXAMEN\VISTA\bin\Debug\MODELO.dll
+D:\cSharp\EXAMEN\VISTA\bin\Debug\CONTROLADOR.pdb
+D:\cSharp\EXAMEN\VISTA\bin\Debug\MODELO.pdb
+D:\cSharp\EXAMEN\VISTA\obj\Debug\VISTA.csproj.CopyComplete
