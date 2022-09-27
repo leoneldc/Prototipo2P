@@ -1,0 +1,6 @@
+D:\cSharp\EXAMEN\MODELO\bin\Debug\MODELO.dll
+D:\cSharp\EXAMEN\MODELO\bin\Debug\MODELO.pdb
+D:\cSharp\EXAMEN\MODELO\obj\Debug\MODELO.csproj.AssemblyReference.cache
+D:\cSharp\EXAMEN\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+D:\cSharp\EXAMEN\MODELO\obj\Debug\MODELO.dll
+D:\cSharp\EXAMEN\MODELO\obj\Debug\MODELO.pdb

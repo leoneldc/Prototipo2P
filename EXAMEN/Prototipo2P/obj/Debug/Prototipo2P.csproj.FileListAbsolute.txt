@@ -9,3 +9,10 @@ D:\cSharp\EXAMEN\Prototipo2P\obj\Debug\Prototipo2P.csproj.GenerateResource.cache
 D:\cSharp\EXAMEN\Prototipo2P\obj\Debug\Prototipo2P.csproj.CoreCompileInputs.cache
 D:\cSharp\EXAMEN\Prototipo2P\obj\Debug\Prototipo2P.exe
 D:\cSharp\EXAMEN\Prototipo2P\obj\Debug\Prototipo2P.pdb
+D:\cSharp\EXAMEN\Prototipo2P\bin\Debug\VISTA.dll
+D:\cSharp\EXAMEN\Prototipo2P\bin\Debug\VISTA.pdb
+D:\cSharp\EXAMEN\Prototipo2P\obj\Debug\Prototipo2P.csproj.CopyComplete
+D:\cSharp\EXAMEN\Prototipo2P\bin\Debug\CONTROLADOR.dll
+D:\cSharp\EXAMEN\Prototipo2P\bin\Debug\MODELO.dll
+D:\cSharp\EXAMEN\Prototipo2P\bin\Debug\CONTROLADOR.pdb
+D:\cSharp\EXAMEN\Prototipo2P\bin\Debug\MODELO.pdb

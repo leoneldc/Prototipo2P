@@ -1,0 +1,9 @@
+D:\cSharp\EXAMEN\CONTROLADOR\bin\Debug\CONTROLADOR.dll
+D:\cSharp\EXAMEN\CONTROLADOR\bin\Debug\CONTROLADOR.pdb
+D:\cSharp\EXAMEN\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.AssemblyReference.cache
+D:\cSharp\EXAMEN\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.CoreCompileInputs.cache
+D:\cSharp\EXAMEN\CONTROLADOR\obj\Debug\CONTROLADOR.dll
+D:\cSharp\EXAMEN\CONTROLADOR\obj\Debug\CONTROLADOR.pdb
+D:\cSharp\EXAMEN\CONTROLADOR\bin\Debug\MODELO.dll
+D:\cSharp\EXAMEN\CONTROLADOR\bin\Debug\MODELO.pdb
+D:\cSharp\EXAMEN\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.CopyComplete

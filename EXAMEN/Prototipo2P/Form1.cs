@@ -16,5 +16,19 @@ namespace Prototipo2P
         {
             InitializeComponent();
         }
+
+        private void pEDIDOSToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            VISTA.Pedidos pedidos = new VISTA.Pedidos();
+            pedidos.MdiParent = this;
+            pedidos.Show();
+        }
+
+        private void pRODUCTOSToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            VISTA.Productos productos = new VISTA.Productos();
+            productos.MdiParent = this;
+            productos.Show();
+        }
     }
 }
