@@ -1,0 +1,11 @@
+D:\cSharp\EXAMEN\Prototipo2P\bin\Debug\Prototipo2P.exe.config
+D:\cSharp\EXAMEN\Prototipo2P\bin\Debug\Prototipo2P.exe
+D:\cSharp\EXAMEN\Prototipo2P\bin\Debug\Prototipo2P.pdb
+D:\cSharp\EXAMEN\Prototipo2P\obj\Debug\Prototipo2P.csproj.AssemblyReference.cache
+D:\cSharp\EXAMEN\Prototipo2P\obj\Debug\Prototipo2P.csproj.SuggestedBindingRedirects.cache
+D:\cSharp\EXAMEN\Prototipo2P\obj\Debug\Prototipo2P.Form1.resources
+D:\cSharp\EXAMEN\Prototipo2P\obj\Debug\Prototipo2P.Properties.Resources.resources
+D:\cSharp\EXAMEN\Prototipo2P\obj\Debug\Prototipo2P.csproj.GenerateResource.cache
+D:\cSharp\EXAMEN\Prototipo2P\obj\Debug\Prototipo2P.csproj.CoreCompileInputs.cache
+D:\cSharp\EXAMEN\Prototipo2P\obj\Debug\Prototipo2P.exe
+D:\cSharp\EXAMEN\Prototipo2P\obj\Debug\Prototipo2P.pdb
