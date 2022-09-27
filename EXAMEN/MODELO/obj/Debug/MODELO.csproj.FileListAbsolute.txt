@@ -4,3 +4,9 @@ D:\cSharp\EXAMEN\MODELO\obj\Debug\MODELO.csproj.AssemblyReference.cache
 D:\cSharp\EXAMEN\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
 D:\cSharp\EXAMEN\MODELO\obj\Debug\MODELO.dll
 D:\cSharp\EXAMEN\MODELO\obj\Debug\MODELO.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\MODELO\bin\Debug\MODELO.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\MODELO\bin\Debug\MODELO.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\MODELO\obj\Debug\MODELO.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\MODELO\obj\Debug\MODELO.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\MODELO\obj\Debug\MODELO.pdb

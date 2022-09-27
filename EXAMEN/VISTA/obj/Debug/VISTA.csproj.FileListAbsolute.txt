@@ -12,3 +12,17 @@ D:\cSharp\EXAMEN\VISTA\bin\Debug\MODELO.dll
 D:\cSharp\EXAMEN\VISTA\bin\Debug\CONTROLADOR.pdb
 D:\cSharp\EXAMEN\VISTA\bin\Debug\MODELO.pdb
 D:\cSharp\EXAMEN\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\VISTA\bin\Debug\VISTA.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\VISTA\bin\Debug\VISTA.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\VISTA\bin\Debug\CONTROLADOR.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\VISTA\bin\Debug\MODELO.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\VISTA\bin\Debug\CONTROLADOR.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\VISTA\bin\Debug\MODELO.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\VISTA\obj\Debug\VISTA.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\VISTA\obj\Debug\VISTA.Pedidos.resources
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\VISTA\obj\Debug\VISTA.Productos.resources
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\VISTA\obj\Debug\VISTA.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\VISTA\obj\Debug\VISTA.pdb

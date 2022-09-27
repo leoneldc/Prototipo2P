@@ -4,7 +4,7 @@ USE `parcial2`;
 
 DROP TABLE IF EXISTS `tbl_pedidos`;
 CREATE TABLE IF NOT EXISTS `tbl_pedidos`(
-codigoPedido int not null,
+codigoPedido int not null auto_increment,
 fechaPedido date not null,
 estadoPedido tinyint default 0,
 primary key (codigoPedido)

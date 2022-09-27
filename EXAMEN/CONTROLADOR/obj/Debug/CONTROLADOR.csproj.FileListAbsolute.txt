@@ -7,3 +7,12 @@ D:\cSharp\EXAMEN\CONTROLADOR\obj\Debug\CONTROLADOR.pdb
 D:\cSharp\EXAMEN\CONTROLADOR\bin\Debug\MODELO.dll
 D:\cSharp\EXAMEN\CONTROLADOR\bin\Debug\MODELO.pdb
 D:\cSharp\EXAMEN\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.CopyComplete
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\CONTROLADOR\bin\Debug\CONTROLADOR.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\CONTROLADOR\bin\Debug\CONTROLADOR.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\CONTROLADOR\bin\Debug\MODELO.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\CONTROLADOR\bin\Debug\MODELO.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\CONTROLADOR\obj\Debug\CONTROLADOR.csproj.CopyComplete
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\CONTROLADOR\obj\Debug\CONTROLADOR.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\Analisis\2P\github\EXAMEN\CONTROLADOR\obj\Debug\CONTROLADOR.pdb
